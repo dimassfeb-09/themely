@@ -1,6 +1,6 @@
 name: themely
 description: "A modular Flutter theme manager supporting dark, light, amoled, and custom named themes with semantic color tokens, animated transitions, scheduling, and more."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dimassfeb-09/themely
 repository: https://github.com/dimassfeb-09/themely
 issue_tracker: https://github.com/dimassfeb-09/themely/issues

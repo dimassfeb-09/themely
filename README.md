@@ -466,6 +466,11 @@ If you find this library useful and want to support its development, you can sup
   - Website: [dimassfeb.com](https://dimassfeb.com)
 
 ## Changelog
+ 
+ **v1.0.1**
+ - Updated README with a centered, responsive preview GIF.
+ - Improved documentation layout.
+
 
 **v1.0.0**
 - Initial core release.

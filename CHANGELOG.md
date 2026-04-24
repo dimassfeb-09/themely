@@ -1,3 +1,9 @@
+## 1.0.1
+
+- **Documentation**
+  - Updated README with a centered, responsive preview GIF.
+  - Improved layout and documentation clarity.
+
 ## 1.0.0
 
 - **Initial Core Release**
