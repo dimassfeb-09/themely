@@ -7,6 +7,10 @@
 
 A modular, highly customizable Flutter theme manager supporting dark, light and custom named themes with semantic color tokens, animated transitions, scheduling, and more.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dimassfeb-09/themely/main/assets/Preview.gif" alt="Themely Preview" width="350" style="max-width: 100%;">
+</p>
+
 ## Table of Contents
 1. [Features](#features)
 2. [Requirements](#requirements)
