@@ -1,0 +1,23 @@
+## 1.0.0
+
+- **Initial Core Release**
+  - Added `ThemeController` with persistence and `AppThemeMode` support (Light, Dark, Amoled, System).
+  - Implemented `ThemeScope` (InheritedWidget) for zero-boilerplate context access.
+  - Added `AppThemeExtension` with generic support for type-safe custom tokens.
+  - Introduced `AppThemeTokens` for semantic color, font, and icon management.
+- **UI & Animation**
+  - Integrated `AnimatedTheme` for smooth global theme transitions.
+  - Added built-in transition types: `Fade`, `Slide`, and `ClipReveal`.
+- **Widgets**
+  - Added `ThemelyApp` as the main entry point wrapper.
+  - Added Widget Switchers: `ThemeBuilder`, `ThemeAsset`, `ThemeIcon`, `ThemeText`, and `ThemeLottie`.
+  - Added `ThemeAnimatedColor` for custom smooth transitions.
+  - Added `LocalTheme` for subtree theme overrides.
+- **Advanced Features**
+  - Added `ThemeScheduler` for automatic time-based theme switching.
+  - Added `ThemePreview` mode to test themes before confirming.
+  - Added `SeedThemeGenerator` for dynamic Material You-style theme generation.
+  - Added `DebugThemeOverlay` for visual debugging of theme tokens.
+- **Utilities**
+  - Added `contrastOn` helper for automatic WCAG-compliant text color selection.
+  - Added exhaustive `BuildContext` extensions (`context.isDark`, `context.themeColors`, etc.).

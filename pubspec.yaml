@@ -1,0 +1,24 @@
+name: themely
+description: "A modular Flutter theme manager supporting dark, light, amoled, and custom named themes with semantic color tokens, animated transitions, scheduling, and more."
+version: 1.0.0
+homepage: https://github.com/dimassfeb-09/themely
+repository: https://github.com/dimassfeb-09/themely
+issue_tracker: https://github.com/dimassfeb-09/themely/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.3.3
+  shared_preferences: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  mocktail: ^1.0.0
+
+flutter:
